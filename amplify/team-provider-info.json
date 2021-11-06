@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-stripenext-dev-170545-authRole",
+      "UnauthRoleArn": "arn:aws:iam::217175807922:role/amplify-stripenext-dev-170545-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::217175807922:role/amplify-stripenext-dev-170545-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-stripenext-dev-170545-deployment",
+      "UnauthRoleName": "amplify-stripenext-dev-170545-unauthRole",
+      "StackName": "amplify-stripenext-dev-170545",
+      "StackId": "arn:aws:cloudformation:us-east-1:217175807922:stack/amplify-stripenext-dev-170545/b3529c10-3f4d-11ec-ae37-0e232268861f",
+      "AmplifyAppId": "d1udjqymwqfj8w"
+    }
+  }
+}
